@@ -6,7 +6,7 @@ namespace HolidayMaker;
 internal static class Db
 {
     private static readonly string ConnStr =
-        "Server=localhost;Port=3306;Database=holiday_maker;User ID=root;Password=Realmadrid2006;";
+        "Server=localhost;Port=3306;Database=holiday_maker;User ID=root;Password=eget lösenord;";
 
     public static MySqlConnection Open()
     {
